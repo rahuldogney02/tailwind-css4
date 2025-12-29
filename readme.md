@@ -14,11 +14,11 @@ git push -u origin main
 ```
 ## install tailwind using command : 
 - npm install tailwindcss @tailwindcss/cli
-- src/in
+- src/input.css or using node we need 2 files we creating input file and output will genrarte after run build command. 
 
-put.css
 - @import "tailwindcss"; 
 - npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+
 
 ```
 <head>

@@ -4,10 +4,9 @@
 git branch -M main
 git push -u origin main
 ```
-### What is the core principle behind Tailwind CSS : 
+#### What is the core principle behind Tailwind CSS : 
 - utility first , means for everything having classes.
-- src/in
-- @import "tailwindcss"; 
-- npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
-
-
+#### what is the current version of Tailwind css:
+- v4.1.18
+### What is the use of output file
+- All are the encoded value or class
