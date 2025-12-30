@@ -10,3 +10,5 @@ git push -u origin main
 - v4.1.18
 ### What is the use of output file
 - All are the encoded value or class
+### How to access child class
+- It's help for lists ul li ```flex [&>*]:flex```
