@@ -12,3 +12,9 @@ git push -u origin main
 - All are the encoded value or class
 ### How to access child class
 - It's help for lists ul li ```flex [&>*]:flex```
+### Which color don't have shades in tailwind
+- White and Black
+### How to apply the underline in tw-css
+- underline with other properties
+### Range of the Shads
+- 50 for very light and 900 for very dark
